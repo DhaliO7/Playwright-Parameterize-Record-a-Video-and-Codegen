@@ -1,6 +1,6 @@
 import { test, expect, firefox } from "@playwright/test";
 
-test("Exercise 4 - Browsers & Browser context", async () => {
+test("Activity 3 - Browsers & Browser context", async () => {
   
   const browser = await firefox.launch();
 
